@@ -1,0 +1,160 @@
+
+#header{
+
+	background-color: rgb(0, 0, 0);
+	margin-top: 0px;
+} 
+ 
+.header {
+	width: 980px;
+	height: 100px;
+	display: block;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.CV {	background-color: rgb(9, 30, 45);
+	color: white;
+	font-size: 48px;
+	width: 250px;
+	height: 90px;
+	float: left;
+	display: block;
+	position: relative;
+	margin: 0px;
+	padding-top: 10px;
+	text-align: center;
+
+}
+
+.name {
+	color: white;
+	font-size: 48px;
+	height: 90px;
+	float: left;
+	display: block;
+	position: relative;
+	margin: 0px 0px 0px 50px;
+	padding: 20px 0px 0px 0px;
+
+
+
+	text-align: center;
+}
+
+
+
+#container{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	position: relative;
+width: 980px;
+height: 880px;
+
+
+
+
+}
+
+#leftbox{
+	background-color: rgb(9, 30, 45);
+	color: white;
+	display: block;
+	position: absolute;
+float: left;
+height: 780px;
+	width: 250px;
+	margin-right: 20px;
+	margin-top: 0px;
+	padding-top: 0px;
+
+
+}
+
+.photo{
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+.profil{
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 38px;
+	color: white;
+	line-height: 24px;
+}
+
+.tel{
+	font-size: 18px;
+	color: white;
+}
+
+.email{
+	font-size: 18px;
+	color: white;
+
+}
+
+.info{padding-right: 10px;
+	padding-left: 10px;
+	font-size: 18px;
+	color: white;}
+
+
+.loisir{padding-right: 10px;
+	padding-left: 10px;
+	font-size: 18px;
+	color: white;}
+
+
+/********RIGHT BOX*******/
+#rightbox{
+
+	width: 700px;
+	height: 300px;
+	float:right;
+}
+
+#experience{
+
+	
+}
+.experience{}
+
+
+#studies-box{	}
+
+.study{
+
+margin: 0px;
+padding: 0px;
+
+
+}
+/*********************/
+hr{color:white;}
+
+#footer{
+margin-left: auto;
+margin-right: auto;
+
+height: 100px;
+
+	background-color: rgb(9, 30, 45);
+
+
+}
+h2{
+
+margin: 0px;
+padding: 0px;
+
+
+}
+p{
+	
+margin: 0px;
+padding: 0px;
+}
